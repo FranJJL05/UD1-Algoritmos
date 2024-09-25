@@ -1,0 +1,7 @@
+INICIO 
+sueldo_base,v1,v2,v3,comisión<- 0 
+LEER sueldo_base,v1,v2,v3
+comisión<- (v1+v2+v3)*0,10
+MOSTRAR comisión 
+MOSTRAR "pago total" sueldo_base+comisión
+FIN
