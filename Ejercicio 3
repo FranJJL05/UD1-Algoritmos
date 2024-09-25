@@ -1,0 +1,8 @@
+INICIO 
+cateto1<- 0
+cateto2<-0
+LEER cateto1 
+LEER cateto 2
+hipotenusa<- cateto1^2 + cateto2^2
+MOSTRAR hipotenusa 
+FIN
