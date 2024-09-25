@@ -1,0 +1,14 @@
+INICIO
+num1<-0 
+num2<-0
+LEER num1
+LEER num2 
+suma<- num1 + num2
+resta<- num1 - num2
+división<- num1 / num2
+multiplicación<- num1 * num2
+MOSTRAR suma 
+MOSTRAR resta 
+MOSTRAR división 
+MOSTRAR multiplicación
+FIN
