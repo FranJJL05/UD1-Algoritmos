@@ -1,0 +1,6 @@
+INICIO
+grados_Fahrenheit<- 0, grados_Celsius<- 0 
+LEER grados_Fahrenheit<- 0
+grados_Celsius=(grados_Fahrenheit‐32)*5/9
+MOSTRAR grados_Celsius
+FIN
