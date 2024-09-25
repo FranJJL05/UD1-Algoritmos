@@ -1,0 +1,6 @@
+INICIO 
+num1,num2,distancia
+LEER num1,num2
+distancia<- Math.abs(num1- num2)
+MOSTRAR distancia 
+FIN
