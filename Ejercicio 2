@@ -1,4 +1,6 @@
 INICIO
+base<- 0
+altura<-0
 LEER base
 LEER altura 
 perímetro<- (2altura + 2base) 
