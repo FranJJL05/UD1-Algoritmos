@@ -1,7 +1,7 @@
 INICIO 
 total_compra, descuento, total_pagar <- 0
 LEER total_compra
-descuento=total_compra*0,15
+descuento<-total_compra*0,15
 total_pagar<-total_compra- descuento
 LEER total_pagar 
 FIN
