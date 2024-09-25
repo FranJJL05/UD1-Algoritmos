@@ -1,0 +1,8 @@
+INICIO
+LEER base
+LEER altura 
+perímetro<- (2altura + 2base) 
+MOSTRAR perímetro
+área<- base*altura 
+MOSTRAR área
+FIN
