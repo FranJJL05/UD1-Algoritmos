@@ -1,7 +1,11 @@
-INICIO 
-sueldo_base,v1,v2,v3,comisión<- 0 
-LEER sueldo_base,v1,v2,v3
-comisión<- (v1+v2+v3)*0,10
-MOSTRAR comisión 
-MOSTRAR "pago total" sueldo_base+comisión
+INICIO
+	sueldo_base <-0 
+	v1<-0
+	v2<-0
+	v3<-0
+	comisión<-0
+	LEER sueldo_base,v1,v2,v3
+	comisión<- (v1+v2+v3)*0.10
+	MOSTRAR comisión 
+	MOSTRAR "pago total" sueldo_base+comisión
 FIN
