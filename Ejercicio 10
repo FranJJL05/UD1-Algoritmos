@@ -16,6 +16,6 @@ Algoritmo ejercicio10
 	Leer trabajo
 	promedio<- (cal1+cal2+cal3)/3
 	promedio_final<- (promedio*0.55) + (examen*0.30) + (trabajo*0.15)
-	Mostrar "El proemdio es:" promedio
-	Mostrar "El proemdio final es:" promedio_final 
+	Mostrar "El proemedio es:" promedio
+	Mostrar "El promedio final es:" promedio_final 
 FinAlgoritmo
