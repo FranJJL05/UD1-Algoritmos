@@ -1,5 +1,7 @@
 INICIO
-hora<-0, min<-0 
-LEER min 
-0´6min= 1 hora 
+  min <- 0
+	LEER min
+	hora <- minutos/60
+	minutosREST <- minutos MOD 60
+	LEER hora, minutos
 FIN
