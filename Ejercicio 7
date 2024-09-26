@@ -1,7 +1,7 @@
 INICIO
-  min <- 0
+	min <- 0
 	LEER min
 	hora <- minutos/60
 	minutosREST <- minutos MOD 60
-	LEER hora, minutos
+	MOSTRAR hora, minutos
 FIN
