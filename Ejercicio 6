@@ -1,7 +1,9 @@
-INICIO 
-num1<-0,num2<-0,num3<-0, media<-0
-INTRODUCIR num1, num2, num3
-LEER num1, num2, num3 
-media<- (num1+ num2+ num3)/3
-MOSTRAR media
-FIN
+Algoritmo INICIO
+	num1<-0
+	num2<-0
+	num3z<-0
+	media<-0
+	LEER num1, num2, num3 
+	media<- (num1+ num2+ num3)/3
+	MOSTRAR media
+FinAlgoritmo
