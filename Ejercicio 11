@@ -1,6 +1,8 @@
-INICIO 
-num1,num2,distancia
-LEER num1,num2
-distancia<- Math.abs(num1- num2)
-MOSTRAR distancia 
-FIN
+Algoritmo INICIO
+	num1<-0
+	num2<-0
+	distancia<-0
+	LEER num1,num2
+	distancia<- abs(num1- num2)
+	MOSTRAR distancia 
+FinAlgoritmo
