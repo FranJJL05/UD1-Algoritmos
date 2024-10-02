@@ -6,9 +6,8 @@ Algoritmo ejercicio15
     Escribir "Ingrese el valor de B:"
     Leer B
     Escribir "Valores originales: A =", A, "B =", B
-    Definir temp Como Entero
-    temp = A
+    intercambio= A
     A = B
-    B = temp
+    B = intercambio
     Escribir "Valores intercambiados: A =", A, "B =", B
 FinAlgoritmo
