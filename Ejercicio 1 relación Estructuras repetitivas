@@ -4,7 +4,7 @@ Algoritmo ejercicio1
     intentosrealizados = 0
 	
 	Mientras intentosrestantes > 0 HACER
-        Escribir "Introduce un numero: " num1
+        Escribir "Introduce un numero: " 
 		Leer num1
 		
         intentosrealizados = intentosrealizados + 1
