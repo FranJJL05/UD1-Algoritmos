@@ -7,15 +7,15 @@ Algoritmo ejercicio4
 	
 	Mientras letra <> " " Hacer
 		Segun letra Hacer
-			"a":
+			"a", "A":
 				Escribir "Es una vocal"
-			"e":
+			"e", "E":
 				Escribir "Es una vocal"
-			"i":
+			"i", "I":
 				Escribir "Es una vocal"
-			"o":
+			"o", "O":
 				Escribir "Es una vocal"
-			"u":
+			"u", "U":
 				Escribir "Es una vocal"
 			De Otro Modo:
 				Escribir "No es vocal"
@@ -25,5 +25,7 @@ Algoritmo ejercicio4
 		Leer letra
 		
 	Fin Mientras
+	
+	Escribir "Fin del  programa"
 	
 FinAlgoritmo
